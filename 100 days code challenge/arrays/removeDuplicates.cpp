@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+//in Srted arrays only
 int removeDuplicates(int arr[],int n)
 {
     int i=0;
